@@ -1,6 +1,6 @@
 # AskMyBook
 
-AskMyBook is a service that is able to answer questions from a specific book using embedding search. The curretn example is trained with "Minimalist Entrepreneur" by Sahil Lavingia. This project is inspired by an [already existing version](https://github.com/slavingia/askmybook), the main difference being that my version is implemented with *Ruby on Rails* and *React*.
+AskMyBook is a service that is able to answer questions from a specific book using embedding search. This project is inspired by an [already existing version](https://github.com/slavingia/askmybook), the main difference being that my version is implemented with *Ruby on Rails* and *React*.
 
 ## Installation
 In order to have a connection with OpenAI library you will need an (API access key)[https://platform.openai.com/account/api-keys]. You will need to create a `.env`file with the key on the root directory (following the example of `.env-example`).
